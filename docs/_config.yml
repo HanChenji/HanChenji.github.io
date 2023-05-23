@@ -1,17 +1,7 @@
 title: Architecture Space of Chenji
-#author:
-#  name: Chenji Han
-#  email: hanchenji16@mails.ucas.ac.cn
-
-# The `>` after `description:` means to ignore line-breaks until next key.
-# If you want to omit the line-break after the end of text, use `>-` instead.
-description: >
-  blogs of computer architecture
-
-# Build settings
-
-theme: minima
-
+theme: jekyll-theme-cayman
+url: https://hanchenji.github.io
+author: hanchenji
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
