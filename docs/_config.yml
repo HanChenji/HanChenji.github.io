@@ -1,7 +1,6 @@
-title: Architecture Space
+title: Deep Dark Fantasy
 theme: jekyll-theme-cayman
-url: https://hanchenji.github.io
-author: hanchenji
+url: https://martins3.github.io/
+author: martins3
 plugins:
   - jekyll-feed
-  - jekyll-seo-tag
