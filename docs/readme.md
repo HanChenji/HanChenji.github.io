@@ -1,10 +1,9 @@
+# Introduction
 
-## Introduction
+# Research Interests
 
-## Research Interests
+## OoO Execution Core
 
-### OoO Execution Core
+## Performance Evaluation
 
-### Performance Evaluation
-
-## Publications
+# Publications

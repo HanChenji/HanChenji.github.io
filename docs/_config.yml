@@ -1,7 +1,7 @@
 title: Architecture Space of Chenji
-author:
-  name: Chenji Han
-  email: hanchenji16@mails.ucas.ac.cn
+#author:
+#  name: Chenji Han
+#  email: hanchenji16@mails.ucas.ac.cn
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
