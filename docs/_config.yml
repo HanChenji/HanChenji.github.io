@@ -1,6 +1,7 @@
 title: Architecture Space of Chenji
-theme: jekyll-theme-cayman
 url: https://hanchenji.github.io
 author: hanchenji
+
+remote_theme: pages-themes/architect@v0.2.0
 plugins:
-  - jekyll-feed
+- jekyll-remote-theme # add this line to the plugins list if you already have one
